@@ -1,4 +1,4 @@
-# codespaceVANTAGE
+# codespaceVANTAGE (codespace Virtual Administration & Network Tool for Access, Governance, and Execution)
 
 ## _The Ultimate Cloud-Native Command & Control Framework_
 
@@ -28,7 +28,7 @@
 
 ### **🔐 Secure Authentication System**
 
-![Security Example](images/securityex.png)
+![Security Example](image/securityex.png)
 
 - **Multi-layer authentication** with secret key protection
 - **Session management** with automatic timeout
@@ -37,7 +37,7 @@
 
 ### **👥 Agent Management Dashboard**
 
-![Agents Page](images/agentex.png)
+![Agents Page](image/agentex.png)
 
 - **Real-time agent monitoring** with live status updates
 - **Geographic location tracking** with IP geolocation
@@ -48,7 +48,7 @@
 
 ### **🏗️ Advanced Client Builder**
 
-![Builder Page](images/builderex.png)
+![Builder Page](image/builderex.png)
 
 - **Zero-dependency executable generation** for Windows systems
 - **Customizable client configuration** including process names and server URLs
@@ -59,7 +59,7 @@
 
 ### **💻 Command Center**
 
-![Command Center](images/ccex.png)
+![Command Center](image/ccex.png)
 
 - **Real-time command execution** with live output streaming
 - **Broadcast capabilities** for sending commands to multiple agents
@@ -88,7 +88,7 @@ The Command Center features a revolutionary file management system with:
 
 ### **🛠️ Professional Tools Suite**
 
-![Tools Page](images/toolex.png)
+![Tools Page](image/toolex.png)
 
 - **File Processing Engine** with support for multiple formats
 - **Encryption and Obfuscation Tools** including XOR encryption, string encryption, and code obfuscation
@@ -100,7 +100,7 @@ The Command Center features a revolutionary file management system with:
 
 ### **🖥️ Backend Management Console**
 
-![Backend Console](images/backendex.png)
+![Backend Console](image/backendex.png)
 
 - **Real-time server monitoring** with performance metrics
 - **Client connection tracking** with detailed statistics
