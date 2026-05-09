@@ -1,6 +1,6 @@
-# codespaceVANTAGE (codespace Virtual Administration & Network Tool for Access, Governance, and Execution)
+# VANTAGE (Virtual Administration & Network Tool for Access, Governance, and Execution)
 
-## Contact TG: @Clebmb
+## Contact me on TG to get the source code for free: @Clebmb
 
 ## _The Ultimate Cloud-Native Command & Control Framework_
 
